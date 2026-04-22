@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace BackendKanban.Models
 {
-    public class Tarefa : TarefaReadDTO
+    public class TarefaModel : TarefaReadDTO
     {
         [Key]
         public int Id { get; set; }

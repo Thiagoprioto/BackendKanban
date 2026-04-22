@@ -363,7 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Arquivos
-appsettings.jason
-appsettings.Development.jason
 /BackendKanban/appsettings.json
 /BackendKanban/appsettings.Development.json
+/BackendKanban/Migrations
+/BackendKanban/Data
