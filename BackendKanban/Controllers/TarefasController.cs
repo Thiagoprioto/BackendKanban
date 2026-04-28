@@ -1,5 +1,5 @@
 ﻿using BackendKanban.Data;
-using BackendKanban.DTO;
+using BackendKanban.DTO.Tarefa;
 using BackendKanban.Models;
 using BackendKanban.Service.Tarefa;
 using Microsoft.AspNetCore.Mvc;

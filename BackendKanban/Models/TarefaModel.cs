@@ -1,4 +1,4 @@
-﻿using BackendKanban.DTO;
+﻿using BackendKanban.DTO.Tarefa;
 using System.ComponentModel.DataAnnotations;
 
 namespace BackendKanban.Models

@@ -1,4 +1,4 @@
-﻿namespace BackendKanban.DTO
+﻿namespace BackendKanban.DTO.Tarefa
 {
     public class TarefaCreateDTO
     {

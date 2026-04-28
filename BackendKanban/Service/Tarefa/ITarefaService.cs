@@ -1,4 +1,4 @@
-﻿using BackendKanban.DTO;
+﻿using BackendKanban.DTO.Tarefa;
 
 namespace BackendKanban.Service.Tarefa
 {
